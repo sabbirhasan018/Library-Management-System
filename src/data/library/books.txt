@@ -1,0 +1,7 @@
+1,c++,Sample Author 1,Sample Press,3,3,2023-08-14
+2,c#,Sample Author 2,Sample Press,3,3,2023-08-14
+3,ruby,Sample Author 3,Sample Press,15,15,2023-08-15
+4,python,Sample Author 4,Sample Press,15,15,2023-08-16
+5,java,Sample Author 5,Sample Press,15,15,2023-08-17
+6,bash,Sample Author 6,Sample Press,6,6,2023-08-19
+7,c,Sample Author 7,Sample Press,15,15,2023-08-19
